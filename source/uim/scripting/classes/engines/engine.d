@@ -1,7 +1,8 @@
 module uim.scripting.classes.engines.engine;
 
 class DScriptEngine {
-  this() { initialze; 
+  this() { 
+    initialze; 
 
     _extensions = DList!string();
     _mimeTypes = DList!string();

@@ -9,4 +9,4 @@ class DScriptReader {
     
   }
 }
-auto 
+auto ScriptReader() { return new DScriptReader; }
