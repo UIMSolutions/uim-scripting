@@ -1,2 +1,2 @@
-module source.uim.scripting.classes.bindings.simple;
+module uim.scripting.classes.bindings.simple;
 

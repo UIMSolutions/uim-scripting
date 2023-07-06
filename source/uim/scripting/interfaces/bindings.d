@@ -1,4 +1,4 @@
-module source.uim.scripting.interfaces.bindings;
+module uim.scripting.interfaces.bindings;
 
 interface IBindings {
     // Returns true if this map contains a mapping for the specified key.

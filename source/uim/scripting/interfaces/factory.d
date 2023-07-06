@@ -1,5 +1,5 @@
-module source.uim.scripting.interfaces.factory;
+module uim.scripting.interfaces.factory;
 
 interface IScriptEngineFactory {
-    
+
 }

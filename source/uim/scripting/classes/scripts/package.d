@@ -1,2 +1,2 @@
-module source.uim.scripting.classes.scripts;
+module uim.scripting.classes.scripts;
 

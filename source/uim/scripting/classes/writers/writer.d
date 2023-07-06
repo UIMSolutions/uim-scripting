@@ -1,2 +1,2 @@
-module source.uim.scripting.classes.writers.writer;
+module uim.scripting.classes.writers.writer;
 

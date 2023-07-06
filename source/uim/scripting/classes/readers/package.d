@@ -1,2 +1,2 @@
-module source.uim.scripting.classes.readers;
+module uim.scripting.classes.readers;
 

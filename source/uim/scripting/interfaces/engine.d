@@ -1,2 +1,2 @@
-module source.uim.scripting.interfaces.engine;
+module uim.scripting.interfaces.engine;
 

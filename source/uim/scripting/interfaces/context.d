@@ -1,4 +1,4 @@
-module source.uim.scripting.interfaces.context;
+module uim.scripting.interfaces.context;
 
 interface IScriptContext {
     // Retrieves the value of the attribute with the given name in the scope occurring earliest in the search order.

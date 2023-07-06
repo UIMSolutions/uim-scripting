@@ -1,4 +1,4 @@
-module source.uim.scripting.classes.engines.manager;
+module uim.scripting.classes.engines.manager;
 
 class DScriptEnginemanager {
     this() { 
