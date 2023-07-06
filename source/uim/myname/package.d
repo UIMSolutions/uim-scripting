@@ -1,4 +1,4 @@
-module uim.myname;
+module uim.scripting;
 
 public { // required uim libraries
   import uim.core;
@@ -6,9 +6,9 @@ public { // required uim libraries
 }
 
 public { // myname packages
-  import uim.myname.classes;
-  import uim.myname.interfaces;
-  import uim.myname.helpers;
-  import uim.myname.mixins;
-  import uim.myname.tests;
+  import uim.scripting.classes;
+  import uim.scripting.interfaces;
+  import uim.scripting.helpers;
+  import uim.scripting.mixins;
+  import uim.scripting.tests;
 }

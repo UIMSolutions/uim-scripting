@@ -1,1 +1,1 @@
-module uim.myname.tests;
+module uim.scripting.tests;
